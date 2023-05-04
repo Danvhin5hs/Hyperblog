@@ -15,8 +15,31 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+#cabecera
+{
+    background-color: blue;
+    color: aliceblue;
+    padding: 0.5em;
+    font-size: 2em;
+    font-weight: bold;
+    box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
+-webkit-box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
+-moz-box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
+
+}
+#cabecera #tagline{
+    font-size: 0.8em;
+    font-weight: normal;
+
+
+    padding-left: 1em;
+}
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 2em;
+}
+#container p
+{
+    font-size: 1.4em;
 }
