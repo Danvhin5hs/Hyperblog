@@ -43,3 +43,12 @@ body
 {
     font-size: 1.4em;
 }
+
+#footer{
+
+    font-size: 1.4em;
+    color: white;
+    background-color: gray;
+    padding: 0.6em;
+    text-align: center;
+}
