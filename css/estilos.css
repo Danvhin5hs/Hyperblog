@@ -59,3 +59,12 @@ body
     padding-bottom: 0;
     padding-top: 0;
 }
+
+#footer{
+
+    font-size: 1.4em;
+    color: white;
+    background-color: gray;
+    padding: 0.6em;
+    text-align: center;
+}
