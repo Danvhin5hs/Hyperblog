@@ -1,32 +1,40 @@
 body
 {
-    color: #333;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     margin: 0;
     padding: 0;
+    background-color: rgb(45, 45, 45);
 }
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0.02em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: white;
 }
 #cabecera
 {
-    background-color: blue;
+    background: #37488b;
+   
     color: aliceblue;
     padding: 0.5em;
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
-    box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
--webkit-box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
--moz-box-shadow: -1px 0px 82px 3px rgba(25,100,130,0.31);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
 
 }
+#cabecera #logo{
+    
+    width: auto;
+    height: 1.2em;
+    vertical-align: middle;
+ }
+
 #cabecera #tagline{
     font-size: 0.8em;
     font-weight: normal;
@@ -37,9 +45,17 @@ body
 
 #container h1
 {
-    font-size: 2em;
+    font-size: 1.3em;
+    font-weight: normal;
+    padding: 1em;
+    padding-bottom: 0;
+    padding-top: 1em;
 }
 #container p
 {
-    font-size: 1.4em;
+    font-size: 1em;
+    font-weight: normal;
+    padding: 1em;
+    padding-bottom: 0;
+    padding-top: 0;
 }
