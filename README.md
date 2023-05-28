@@ -4,6 +4,7 @@
 
 ## Descripción del Proyecto
 El objetivo de este proyecto es [insertar una breve descripción del propósito y enfoque del proyecto]. El proyecto se enfoca en [explicar el alcance y los beneficios del proyecto]. Con este proyecto, buscamos [mencionar los objetivos específicos y las metas a alcanzar].
+Creado por el increbile Dota Master
 
 ## Características Principales
 [Destacar las principales características y funcionalidades del proyecto]
