@@ -10,6 +10,8 @@ Creado por el increbile Dota Master
 [Destacar las principales características y funcionalidades del proyecto]
 [Mencionar cualquier tecnología o lenguaje de programación utilizado]
 [Describir cualquier integración o dependencia relevante]
+
+-INCLUYE NUEVOS EJEMPLOS 
 ## Cómo Contribuir
 Nos emociona mucho recibir contribuciones de la comunidad y te invitamos a participar en el desarrollo de este proyecto. Si estás interesado/a en contribuir, por favor sigue los siguientes pasos:
 
